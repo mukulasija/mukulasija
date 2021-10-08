@@ -7,10 +7,11 @@
 ## 🧐 About
 - 🔭 I’m currently working on Android Projects
 - 🌱 I’m currently learning DSA, Android
-<!-- - 👯 I’m  -->
+
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Android App Development or any tech related stuff
 
 
 ![Mukul"s Status](https://github-readme-stats.vercel.app/api?username=mukulasija&show_icons=true&hide_border=true&theme=vue)
 
+<!-- - 👯 I’m  -->
