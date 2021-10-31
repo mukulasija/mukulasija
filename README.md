@@ -15,4 +15,4 @@
 ![Mukul"s Status](https://github-readme-stats.vercel.app/api?username=mukulasija&show_icons=true&hide_border=true&theme=vue)
 
 <!-- - 👯 I’m  -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukulasija)](https://git.io/streak-stats)
+<align= "right" [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukulasija)](https://git.io/streak-stats)>
